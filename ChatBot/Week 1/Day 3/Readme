@@ -1,3 +1,11 @@
 Description:
 
 Today's focus is on refreshing your Python skills, particularly in the context of AI and NLP applications. You'll also start exploring Python libraries commonly used in chatbot development. 
+
+Activities:
+
+Review Python basics and advanced concepts relevant to AI development. Explore Python libraries such as NLTK, spaCy, and scikit-learn. Complete provided Python coding exercises focused on text processing and basic NLP tasks. Start experimenting with simple chatbot logic using Python. 
+
+Deliverable:
+
+Submit a Python script that demonstrates: Basic text preprocessing (tokenization, lowercasing, removing punctuation). 2. 3. 4. A function that can identify keywords related to Toutche's products in a given text. A simple intent classification system that can categorize user queries into at least 3 categories (e.g., product info, pricing, technical support). Comments explaining your code and thought process. 
